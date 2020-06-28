@@ -1,8 +1,8 @@
 baseURL = "https://example.com/"
 languageCode = "en-us"
-title = "Edna West"
+title = "Homer White"
 theme = "personal-web"
-copyright="© Edna West"
+copyright="© Homer White"
 googleAnalytics = ""
 enableEmoji=true
 enableRobotsTXT=true
@@ -10,8 +10,8 @@ pygmentsUseClasses=true
 pygmentsCodeFences=true
 
 [params.intro]
-  main = "Hi, I'm Edna :wave:"
-  sub = "I'm a Web Developer and Entrepreneur"
+  main = "Homer White"
+  sub = "Professor of Mathematics and Computer Science.:japanese_goblin:"
 
 [params.main]
   latestPublishHeader = "My Latest Project"
@@ -40,28 +40,28 @@ pygmentsCodeFences=true
   portfolio = "project"
 
 [params.sidebar]
-  backgroundImage = '' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
+  backgroundImage = '/images/fm_sky.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
-  logo = "" # - default "/images/edna-west.jpg"
+  logo = "/images/homer_white.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
   customCSS = ""
 
 [params.social]
-  github = "https://github.com/"
-  twitter = "https://twitter.com/"
-  linkedin = "https://www.linkedin.com/in/"
-  medium = "https://medium.com/"
-  codepen = "https://codepen.io/"
-  facebook = "https://www.facebook.com/"
-  youtube = "https://www.youtube.com/"
-  instagram = "https://www.instagram.com/"
-  gitlab = "https://gitlab.com/"
-  keybase = "https://keybase.io/"
+  github = "https://github.com/homerhanumat"
+  #twitter = "https://twitter.com/"
+  #linkedin = "https://www.linkedin.com/in/"
+  #medium = "https://medium.com/"
+  #codepen = "https://codepen.io/"
+  facebook = "https://www.facebook.com/homer.white1"
+  youtube = "https://www.youtube.com/channel/UChX1SwFXo0roLKlek4URwcA"
+  #instagram = "https://www.instagram.com/"
+  #gitlab = "https://gitlab.com/"
+  #keybase = "https://keybase.io/"
 
 [params.contact]
-  email = ""
-  text= "" # text of the contact link in the sidebar. If email params.contact.email is defined
+  email = "homerhanumat@gmail.com"
+  text= "Email" # text of the contact link in the sidebar. If email params.contact.email is defined
 
 
 [menu]
