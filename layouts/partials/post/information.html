@@ -1,0 +1,15 @@
+<div class="reading-time">
+    Categories:
+  {{ if .Params.Categories }}
+    {{ range .Params.Categories }}
+      <span><a href="/categories/{{ . }}">{{ . }}</a> </span>
+    {{ end }}
+  {{ else }}
+      None
+  {{ end }}
+</div>
+
+<div class="published-date">
+  {{ partial "svg" (dict "iconName" "calendar" "size" "18px")}}
+  <span>{{ .PublishDate.Format "January 2, 2006" }}</span>
+</div>

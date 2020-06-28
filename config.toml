@@ -19,6 +19,7 @@ pygmentsCodeFences=true
 [taxonomies]
   design = "designs"
   tech = "techs"
+  category = "categories"
 
 [blackfriday]
   hrefTargetBlank = true
