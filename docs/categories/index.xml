@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Homer White</title>
-    <link>https://homerhanumat.github.io/pweb/categories/</link>
+    <link>http://homerhanumat.github.io/pweb/categories/</link>
     <description>Recent content in Categories on Homer White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Homer White</copyright>
     <lastBuildDate>Sat, 27 Jun 2020 19:25:30 +0200</lastBuildDate>
     
-	<atom:link href="https://homerhanumat.github.io/pweb/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://homerhanumat.github.io/pweb/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>static-site-gen</title>
-      <link>https://homerhanumat.github.io/pweb/categories/static-site-gen/</link>
+      <link>http://homerhanumat.github.io/pweb/categories/static-site-gen/</link>
       <pubDate>Sat, 27 Jun 2020 19:25:30 +0200</pubDate>
       
-      <guid>https://homerhanumat.github.io/pweb/categories/static-site-gen/</guid>
+      <guid>http://homerhanumat.github.io/pweb/categories/static-site-gen/</guid>
       <description></description>
     </item>
     
     <item>
       <title>r-programming</title>
-      <link>https://homerhanumat.github.io/pweb/categories/r-programming/</link>
+      <link>http://homerhanumat.github.io/pweb/categories/r-programming/</link>
       <pubDate>Sat, 14 Mar 2020 19:25:30 +0200</pubDate>
       
-      <guid>https://homerhanumat.github.io/pweb/categories/r-programming/</guid>
+      <guid>http://homerhanumat.github.io/pweb/categories/r-programming/</guid>
       <description></description>
     </item>
     
     <item>
       <title>indology</title>
-      <link>https://homerhanumat.github.io/pweb/categories/indology/</link>
+      <link>http://homerhanumat.github.io/pweb/categories/indology/</link>
       <pubDate>Wed, 15 Jan 2020 19:25:30 +0200</pubDate>
       
-      <guid>https://homerhanumat.github.io/pweb/categories/indology/</guid>
+      <guid>http://homerhanumat.github.io/pweb/categories/indology/</guid>
       <description></description>
     </item>
     
     <item>
       <title>theology</title>
-      <link>https://homerhanumat.github.io/pweb/categories/theology/</link>
+      <link>http://homerhanumat.github.io/pweb/categories/theology/</link>
       <pubDate>Wed, 15 Jan 2020 19:25:30 +0200</pubDate>
       
-      <guid>https://homerhanumat.github.io/pweb/categories/theology/</guid>
+      <guid>http://homerhanumat.github.io/pweb/categories/theology/</guid>
       <description></description>
     </item>
     

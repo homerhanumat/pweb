@@ -3,139 +3,139 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/post/</loc>
+    <loc>http://homerhanumat.github.io/pweb/post/</loc>
     <lastmod>2020-06-27T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/categories/</loc>
+    <loc>http://homerhanumat.github.io/pweb/categories/</loc>
     <lastmod>2020-06-27T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/</loc>
+    <loc>http://homerhanumat.github.io/pweb/</loc>
     <lastmod>2020-06-27T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/post/kinda-like-hugo/</loc>
+    <loc>http://homerhanumat.github.io/pweb/post/kinda-like-hugo/</loc>
     <lastmod>2020-06-27T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/categories/static-site-gen/</loc>
+    <loc>http://homerhanumat.github.io/pweb/categories/static-site-gen/</loc>
     <lastmod>2020-06-27T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/post/metaprogramming/</loc>
+    <loc>http://homerhanumat.github.io/pweb/post/metaprogramming/</loc>
     <lastmod>2020-03-14T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/categories/r-programming/</loc>
+    <loc>http://homerhanumat.github.io/pweb/categories/r-programming/</loc>
     <lastmod>2020-03-14T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/categories/indology/</loc>
+    <loc>http://homerhanumat.github.io/pweb/categories/indology/</loc>
     <lastmod>2020-01-15T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/post/gita/</loc>
+    <loc>http://homerhanumat.github.io/pweb/post/gita/</loc>
     <lastmod>2020-01-15T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/categories/theology/</loc>
+    <loc>http://homerhanumat.github.io/pweb/categories/theology/</loc>
     <lastmod>2020-01-15T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/post/ramayana/</loc>
+    <loc>http://homerhanumat.github.io/pweb/post/ramayana/</loc>
     <lastmod>2020-01-01T19:25:30+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/portfolio/beginning-computer-science-with-r/</loc>
+    <loc>http://homerhanumat.github.io/pweb/portfolio/beginning-computer-science-with-r/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/techs/bookdown/</loc>
+    <loc>http://homerhanumat.github.io/pweb/techs/bookdown/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/portfolio/</loc>
+    <loc>http://homerhanumat.github.io/pweb/portfolio/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/techs/r/</loc>
+    <loc>http://homerhanumat.github.io/pweb/techs/r/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/techs/r-studio/</loc>
+    <loc>http://homerhanumat.github.io/pweb/techs/r-studio/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/techs/</loc>
+    <loc>http://homerhanumat.github.io/pweb/techs/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/portfolio/tigerstats/</loc>
+    <loc>http://homerhanumat.github.io/pweb/portfolio/tigerstats/</loc>
     <lastmod>2019-05-02T19:47:09+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/about/</loc>
+    <loc>http://homerhanumat.github.io/pweb/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   
   <url>
-    <loc>https://homerhanumat.github.io/pweb/designs/</loc>
+    <loc>http://homerhanumat.github.io/pweb/designs/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
