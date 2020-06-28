@@ -2,13 +2,13 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ABOUT on Homer White</title>
-    <link>https://homerhanumat.github.com/pweb/about/</link>
+    <link>https://homerhanumat.github.io/pweb/about/</link>
     <description>Recent content in ABOUT on Homer White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Homer White</copyright>
     
-	<atom:link href="https://homerhanumat.github.com/pweb/about/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://homerhanumat.github.io/pweb/about/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

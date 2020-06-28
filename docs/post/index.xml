@@ -2,49 +2,49 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>ARTICLES on Homer White</title>
-    <link>https://homerhanumat.github.com/pweb/post/</link>
+    <link>https://homerhanumat.github.io/pweb/post/</link>
     <description>Recent content in ARTICLES on Homer White</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>© Homer White</copyright>
     <lastBuildDate>Sat, 27 Jun 2020 19:25:30 +0200</lastBuildDate>
     
-	<atom:link href="https://homerhanumat.github.com/pweb/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://homerhanumat.github.io/pweb/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>I Kinda Like Hugo</title>
-      <link>https://homerhanumat.github.com/pweb/post/kinda-like-hugo/</link>
+      <link>https://homerhanumat.github.io/pweb/post/kinda-like-hugo/</link>
       <pubDate>Sat, 27 Jun 2020 19:25:30 +0200</pubDate>
       
-      <guid>https://homerhanumat.github.com/pweb/post/kinda-like-hugo/</guid>
+      <guid>https://homerhanumat.github.io/pweb/post/kinda-like-hugo/</guid>
       <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed vulputate sem. Sed vestibulum ante sed molestie auctor. Nam augue tellus, commodo euismod dapibus nec, pretium vel nisi. Pellentesque tempor odio vel arcu interdum, a vehicula nisi dignissim. Maecenas vitae leo risus. Donec eget libero eu justo tristique ultrices nec ut lectus. Donec faucibus lacus et nulla bibendum porta. Aliquam vel leo bibendum, gravida sapien at, vestibulum purus. Vivamus sollicitudin mattis vulputate.</description>
     </item>
     
     <item>
       <title>Metaprogramming in R</title>
-      <link>https://homerhanumat.github.com/pweb/post/metaprogramming/</link>
+      <link>https://homerhanumat.github.io/pweb/post/metaprogramming/</link>
       <pubDate>Sat, 14 Mar 2020 19:25:30 +0200</pubDate>
       
-      <guid>https://homerhanumat.github.com/pweb/post/metaprogramming/</guid>
+      <guid>https://homerhanumat.github.io/pweb/post/metaprogramming/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed vulputate sem. Sed vestibulum ante sed molestie auctor. Nam augue tellus, commodo euismod dapibus nec, pretium vel nisi. Pellentesque tempor odio vel arcu interdum, a vehicula nisi dignissim. Maecenas vitae leo risus.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Bhagavad Gita</title>
-      <link>https://homerhanumat.github.com/pweb/post/gita/</link>
+      <link>https://homerhanumat.github.io/pweb/post/gita/</link>
       <pubDate>Wed, 15 Jan 2020 19:25:30 +0200</pubDate>
       
-      <guid>https://homerhanumat.github.com/pweb/post/gita/</guid>
+      <guid>https://homerhanumat.github.io/pweb/post/gita/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed vulputate sem. Sed vestibulum ante sed molestie auctor. Nam augue tellus, commodo euismod dapibus nec, pretium vel nisi. Pellentesque tempor odio vel arcu interdum, a vehicula nisi dignissim. Maecenas vitae leo risus. Donec eget libero eu justo tristique ultrices nec ut lectus. Donec faucibus lacus et nulla bibendum porta. Aliquam vel leo bibendum, gravida sapien at, vestibulum purus. Vivamus sollicitudin mattis vulputate. Nulla auctor consequat ligula, a imperdiet sem bibendum vitae. Maecenas massa leo, rutrum nec magna vel, ornare vulputate sapien. Morbi maximus justo sit amet sapien imperdiet, sed congue orci euismod. Aenean eu nisi sed sem facilisis tempor ut id odio. Nulla facilisi. Integer tellus tortor, egestas sit amet dui at, bibendum commodo sapien. Vestibulum id eros lectus.&lt;/p&gt;</description>
     </item>
     
     <item>
       <title>The Ramayana</title>
-      <link>https://homerhanumat.github.com/pweb/post/ramayana/</link>
+      <link>https://homerhanumat.github.io/pweb/post/ramayana/</link>
       <pubDate>Wed, 01 Jan 2020 19:25:30 +0200</pubDate>
       
-      <guid>https://homerhanumat.github.com/pweb/post/ramayana/</guid>
+      <guid>https://homerhanumat.github.io/pweb/post/ramayana/</guid>
       <description>&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque sed vulputate sem. Sed vestibulum ante sed molestie auctor. Nam augue tellus, commodo euismod dapibus nec, pretium vel nisi. Pellentesque tempor odio vel arcu interdum, a vehicula nisi dignissim. Maecenas vitae leo risus. Donec eget libero eu justo tristique ultrices nec ut lectus. Donec faucibus lacus et nulla bibendum porta.&lt;/p&gt;</description>
     </item>
     
