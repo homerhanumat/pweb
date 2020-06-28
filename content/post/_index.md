@@ -1,6 +1,6 @@
 ---
-title: POST
+title: ARTICLES
 description: 'Posts Section'
 ---
 
-You'll add here a general introduction of your posts.
+Mostly I write about R programming.  Sometimes I write about static-site gnenrators.  From time to time I'll write about theology and/or South Asian religions.

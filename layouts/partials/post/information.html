@@ -2,7 +2,8 @@
     Categories:
   {{ if .Params.Categories }}
     {{ range .Params.Categories }}
-      <span><a href="/categories/{{ . }}">{{ . }}</a> </span>
+    <!-- helped by:  https://gist.github.com/revelt/3df759d8c5949698b356ec6d0e282fbe -->
+      <span><a href="/categories/{{ . }}">{{ replace . "-" " "}}</a> </span>
     {{ end }}
   {{ else }}
       None

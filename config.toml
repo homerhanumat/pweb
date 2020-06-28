@@ -83,7 +83,7 @@ pygmentsCodeFences=true
 
 [[menu.main]]
   identifier = "blog"
-  name = "Post"
+  name = "Articles"
   title = "Blog section"
   url = "/post/"
   weight = -100
