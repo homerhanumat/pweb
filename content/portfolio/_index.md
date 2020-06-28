@@ -1,6 +1,6 @@
 ---
-title: PORTFOLIO
-description: 'Portfolio Section'
+title: PROJECTS
+description: 'Project Section'
 ---
 
-You'll add here a general introduction of your portfolio page.
+Most of my work these days centers on R programming, both for data analysis ans statistics education.
