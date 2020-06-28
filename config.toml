@@ -1,4 +1,4 @@
-baseURL = "https://example.com/"
+baseURL = "https://homerhanumat.github.com/pweb"
 languageCode = "en-us"
 title = "Homer White"
 theme = "personal-web"
@@ -8,6 +8,7 @@ enableEmoji=true
 enableRobotsTXT=true
 pygmentsUseClasses=true
 pygmentsCodeFences=true
+publishDir="docs"
 
 [params.intro]
   main = "Homer White"

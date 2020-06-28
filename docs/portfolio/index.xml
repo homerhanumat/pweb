@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>PROJECTS on Homer White</title>
+    <link>https://homerhanumat.github.com/pweb/portfolio/</link>
+    <description>Recent content in PROJECTS on Homer White</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© Homer White</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate>
+    
+	<atom:link href="https://homerhanumat.github.com/pweb/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Beginning Computer Science With R</title>
+      <link>https://homerhanumat.github.com/pweb/portfolio/beginning-computer-science-with-r/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://homerhanumat.github.com/pweb/portfolio/beginning-computer-science-with-r/</guid>
+      <description>i wrote this textbook for CSC 115 and 215 (first-year computer science) at the College where I teach. It&amp;rsquo;s made with the R package bookdown
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
+    
+    <item>
+      <title>Tigerstats: an R Package for Teaching Statistics</title>
+      <link>https://homerhanumat.github.com/pweb/portfolio/tigerstats/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://homerhanumat.github.com/pweb/portfolio/tigerstats/</guid>
+      <description>tigerstats is an R package that I wrote with Rebekah Musselwhite back in the 2013. We still use it for teaching elementary statistics at my College.
+Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.</description>
+    </item>
+    
+  </channel>
+</rss>
