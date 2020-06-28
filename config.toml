@@ -1,4 +1,4 @@
-baseURL = "http://homerhanumat.github.io/pweb/"
+baseURL = "https://pweb.netlify.app"
 languageCode = "en-us"
 title = "Homer White"
 theme = "personal-web"
