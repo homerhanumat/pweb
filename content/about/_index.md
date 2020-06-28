@@ -1,10 +1,40 @@
 ---
 title: ABOUT
-description: Hey, I'm Edna West
-images: ["/images/sample.jpg"]
+description: infromation about Homer White
 ---
 
+I'm not going to make a big effort, here; after all, this is just to help you illustrate how your Hugo project might go.
 
-This is my about page. :wave:
+You'll want to do it up, though:  say some _true_ things about yourself:
 
-Lorem ipsum dolor sit amet, :smile: consectetur adipisicing elit. Voluptates aut, tenetur distinctio voluptatibus ab. Nihil id dignissimos unde, tenetur iusto facilis suscipit corporis, ipsam necessitatibus, eaque iste deleniti consequuntur reprehenderit? :earth_africa:
+* one true thing
+* and another
+* and yet another
+* perhaps in an unordered list, like this one
+
+    - with sub-lists, even
+    - like this one!
+
+Maybe use some blockquotes:
+
+>I like static-site generators.
+
+You could throw in a table or two:
+
+Person | Favorite Programming Language
+---- | ----
+Homer | R
+Luke | Python
+Kaitlyn | R
+Matthew | C++
+
+
+__Note__:  I am not happy with:
+
+
+1. how lists render
+1. the styling of blockquotes
+1. the styling of tables
+
+
+
