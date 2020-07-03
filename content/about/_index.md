@@ -1,6 +1,6 @@
 ---
 title: ABOUT
-description: infromation about Homer White
+description: information about Homer White
 
 ---
 I'm not going to make a big effort, here; after all, this is just to help you illustrate how your Hugo project might go.
