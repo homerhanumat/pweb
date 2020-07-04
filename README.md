@@ -1,15 +1,28 @@
 # Working From a Theme in Hugo
 
-This repository illustrates how you might choose a Hugo theme and modify its example site to build a site of your own.
+This repository illustrates how you might choose a Hugo theme and modify its example site to build a site of your own.  We use the theme [`personal web`](.https://github.com/bjacquemet/personal-web).
 
 ## Installation
 
-The repository uses the [personal-web](https://github.com/bjacquemet/personal-web) as a submodule, so you must clone recursively:
+Clone the repository, with the theme as a submodule:
 
 ```
-git clone --recursive https://github.com/homerhanumat/pweb.git
+git clone --recursive https://github.com/bjacquemet/personal-web.git
 ```
 
-## Use
+We need to begin from a specific commit of the theme, so also run:
 
-We will check out the branches in order to follow development of the project.
+```
+cd themes/personal-web
+git checkout bfdce3a65
+cd ..
+cd ..
+```
+
+## Usage
+
+Study the development of the theme by checking out specific branches in numerical order, e.g.:
+
+```
+git checkout 01-example-site
+```
