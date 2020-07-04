@@ -30,4 +30,10 @@ This is a sample project report provided as guidance for students in CSC 324 at 
 
 ## Desiderata
 
+### Further CSS
+
+### Investigate Use of Relative URLs
+
+### Contribute to the Theme
+
 ## Grading Myself
