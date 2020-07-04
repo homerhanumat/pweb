@@ -1,9 +1,13 @@
 ---
 title: ABOUT
 description: information about Homer White
-
 ---
+
+## Introduction
+
 I'm not going to make a big effort, here; after all, this is just to help you illustrate how your Hugo project might go.
+
+## Random Markdown Stuff
 
 You'll want to do it up, though:  say some _true_ things about yourself:
 
@@ -21,16 +25,17 @@ Maybe use some blockquotes:
 You could throw in a table or two:
 
 | Person | Favorite Programming Language |
-| --- | --- |
+| :--- | :--- |
 | Homer | R |
 | Luke | Python |
 | Kaitlyn | R |
 | Matthew | C++ |
 
-**Note**:  I am not happy with:
+## Fixes
 
-1. how lists render
-2. the styling of blockquotes
-3. the styling of tables
+I threw in some custom css
 
-Here is a **sentence** to test forestry.io
+1. to fix upper margin on unordered lists
+2. to make tables a bit nicer
+
+I should do something about the blockquotes.

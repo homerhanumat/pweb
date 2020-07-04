@@ -47,7 +47,7 @@ publishDir="docs"
   logo = "/images/homer_white.jpg" # - default "/images/edna-west.jpg"
 [params.assets]
   favicon = ""
-  customCSS = ""
+  customCSS = "/css/custom.css"
 
 [params.social]
   github = "https://github.com/homerhanumat"
