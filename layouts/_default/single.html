@@ -1,0 +1,7 @@
+{{/* fix issue in them where .Content | markdownify returns nothing */}}
+{{ partial "header" .}}
+
+<h1>{{ .Title | markdownify }}</h1>
+{{ .Content }}
+
+{{ partial "footer" .}}
