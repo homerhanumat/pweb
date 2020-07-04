@@ -39,3 +39,11 @@ I threw in some custom css
 2. to make tables a bit nicer
 
 I should do something about the blockquotes.
+
+## Tweets?
+
+I wonder how the Tweet shortcode works:
+
+{{< tweet-single 1032398933513912320 >}}
+
+Looks like the theme's `tweet-single` is a wrapper for an internal hugo Twitter shortcode.
