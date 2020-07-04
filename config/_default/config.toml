@@ -31,7 +31,7 @@ publishDir="docs"
   mainSections = ['portfolio'] # values: ['post', 'portfolio'] only accept one section, to be displayed bellow 404
 
 [params.notFound]
-  gopher = "/images/gopher.png" # checkout https://gopherize.me/
+  gopher = "/images/gopher-homer.png" # checkout https://gopherize.me/
   h1 = 'Bummer!'
   p = "It seems that this page doesn't exist."
 
