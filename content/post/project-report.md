@@ -1,5 +1,5 @@
 ---
-date: 2020-07-05T13:59:15-04:00
+date: 2020-07-04T13:59:15-04:00
 title: "Building a Website With Hugo and the Personal Web Theme"
 draft: false
 categories:
