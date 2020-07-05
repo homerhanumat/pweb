@@ -18,6 +18,13 @@ You'll want to do it up, though:  say some _true_ things about yourself:
   * with sub-lists, even
   * like this one!
 
+Nesting with ordered lists:
+
+* get up
+* get coffee
+  1. strong
+  2. dark
+
 Maybe use some blockquotes:
 
 > I like static-site generators.

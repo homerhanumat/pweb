@@ -45,6 +45,7 @@ publishDir="docs"
   backgroundImage = '/images/fm_sky.jpg' # header background image - default "/images/default_sidebar.jpg" - Photo by Tim Marshall on Unsplash
   gradientOverlay = '' # default: rgba(0,0,0,0.4),rgba(0,0,0,0.4)
   logo = "/images/homer_white.jpg" # - default "/images/edna-west.jpg"
+  
 [params.assets]
   favicon = ""
   customCSS = "/css/custom.css"
