@@ -7,7 +7,7 @@ This repository illustrates how you might choose a Hugo theme and modify its exa
 Clone the repository, with the theme as a submodule:
 
 ```
-git clone --recursive https://github.com/bjacquemet/personal-web.git
+git clone --recursive https://github.com/homerhanumat/pweb.git
 ```
 
 We need to begin from a specific commit of the theme, so also run:

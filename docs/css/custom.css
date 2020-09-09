@@ -1,0 +1,20 @@
+/* theme set margin-top to -15px, looked bad: */
+ul {
+    margin-top: 0;
+}
+
+/* style table */
+table {
+    margin-bottom: 15px;
+}
+th, td {
+    border-bottom: 1px solid #ddd;
+  }
+tr:hover {
+    background-color: #f5f5f5;
+}
+
+/* address code overflow */
+pre {
+    overflow: scroll;
+}
